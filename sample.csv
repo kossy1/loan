@@ -1,0 +1,16 @@
+ApplicantIncome,CoapplicantIncome,LoanAmount,LoanAmountTerm,CreditHistory,Gender,Married,Dependents,Education,SelfEmployed,PropertyArea,EmploymentType,YearsAtJob,Age
+750000,300000,2000000,36,1.0,Male,Yes,2,Graduate,No,Lagos,Private Sector,5,32
+350000,50000,500000,24,0.0,Female,No,0,Not Graduate,Yes,Rural,Unemployed,1,45
+1200000,200000,3000000,48,1.0,Male,Yes,1,Post Graduate,No,Abuja,Public Sector,8,28
+200000,0,800000,36,0.0,Female,Yes,3,Graduate,No,Kano,Self Employed,2,51
+850000,150000,1500000,24,1.0,Male,No,0,Graduate,No,Port Harcourt,Private Sector,4,34
+450000,100000,1200000,48,0.0,Female,Yes,2,Not Graduate,Yes,Ibadan,Unemployed,0,29
+1500000,500000,4000000,60,1.0,Male,Yes,1,Post Graduate,No,Abuja,Public Sector,10,38
+300000,0,300000,36,0.0,Male,No,4,Not Graduate,Yes,Rural,Self Employed,3,42
+950000,250000,2500000,36,1.0,Female,Yes,2,Graduate,No,Lagos,Private Sector,6,30
+550000,0,1000000,24,1.0,Male,Yes,0,Graduate,No,Other Urban,Business Owner,7,36
+1800000,600000,5000000,72,1.0,Male,Yes,1,Post Graduate,No,Lagos,Private Sector,12,40
+250000,0,200000,12,0.0,Female,No,2,Not Graduate,Yes,Semiurban,Unemployed,1,25
+1100000,200000,2800000,48,1.0,Male,Yes,2,Graduate,No,Abuja,Public Sector,9,35
+400000,150000,900000,24,0.0,Female,Yes,1,Graduate,No,Kano,Private Sector,3,33
+680000,0,1800000,36,1.0,Male,No,0,Graduate,No,Port Harcourt,Business Owner,5,31
